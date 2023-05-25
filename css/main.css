@@ -46,11 +46,11 @@ h1{
 
 .icon{
     order: -1;
-    text-align: center;
+    align-self: center;
 }
 
 .emoji a{
     display: flex;
-    align-items:flex-end;
+    align-items: flex-end;
     margin-top: auto;
 }
